@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ervinpopescu
+- 👋 Hi, I’m Ervin Popescu.
 - 👀 I’m interested in programming and electronics
 - 🌱 I’m currently learning Electronics at UPB
 
